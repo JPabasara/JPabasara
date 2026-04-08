@@ -25,7 +25,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPabasara&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8&v=1" width="260"/>
+<img align="right" src="https://github-readme-stats-kappa-sage.vercel.app/api/top-langs/?username=JPabasara&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" width="260"/>
 
 ```yaml
 🧑‍💻 Name       : Janidu Pabasara
@@ -107,9 +107,9 @@
 <div align="center">
 
 <a href="https://github.com/JPabasara">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JPabasara&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true&v=1" alt="Janidu's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-kappa-sage.vercel.app/api?username=JPabasara&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Janidu's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPabasara&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8&v=1" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-kappa-sage.vercel.app/api/top-langs/?username=JPabasara&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/><br/>
@@ -136,7 +136,7 @@
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JPabasara&theme=discord&no-frame=true&no-bg=true&v=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy-zeta.vercel.app/?username=JPabasara&theme=discord&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
