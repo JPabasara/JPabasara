@@ -6,7 +6,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%94%AD+Exploring+Data+Science+%26+Machine+Learning;%F0%9F%9B%A0%EF%B8%8F+Building+Practical%2C+Optimized+Solutions;%F0%9F%9A%80+Passionate+About+DevOps+%26+Cloud+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%9A%80+Interested+in+DevOps+and+Cloud+Engineering." alt="Typing SVG" />
 </a>
 
 <!-- Profile Views & Followers -->
@@ -25,7 +25,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPabasara&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" width="260"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPabasara&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8&v=1" width="260"/>
 
 ```yaml
 🧑‍💻 Name       : Janidu Pabasara
@@ -107,9 +107,9 @@
 <div align="center">
 
 <a href="https://github.com/JPabasara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JPabasara&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="Janidu's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JPabasara&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true&v=1" alt="Janidu's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPabasara&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPabasara&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8&v=1" alt="Top Languages"/>
 </a>
 
 <br/><br/>
@@ -135,7 +135,9 @@
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JPabasara&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JPabasara&theme=discord&no-frame=true&no-bg=true&v=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -166,7 +168,7 @@
 
 ---
 
-<!-- ========== CONTRIBUTION SNAKE ========== -->
+<!-- ========== CONTRIBUTION SNAKE ==========
 
 <div align="center">
   <picture>
@@ -176,7 +178,7 @@
   </picture>
 </div>
 
----
+--- -->
 
 <!-- ========== FOOTER ========== -->
 
