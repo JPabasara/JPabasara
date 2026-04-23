@@ -25,7 +25,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JPabasara&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8&cache_bypass=999" width="260"/>
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JPabasara&layout=donut-vertical&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8&cache_seconds=21600&cache_bypass=20260423" width="260"/>
 
 ```yaml
 🧑‍💻 Name       : Janidu Pabasara
@@ -106,9 +106,9 @@
 
 <div align="center">
 
-[![Janidu's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JPabasara&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_bypass=999)](https://github.com/JPabasara)
+[![Janidu's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JPabasara&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=21600&cache_bypass=20260423)](https://github.com/JPabasara)
 &nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JPabasara&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8&cache_bypass=999)](https://github.com/JPabasara)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JPabasara&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&langs_count=8&cache_seconds=21600&cache_bypass=20260423)](https://github.com/JPabasara)
 
 <br/><br/>
 
